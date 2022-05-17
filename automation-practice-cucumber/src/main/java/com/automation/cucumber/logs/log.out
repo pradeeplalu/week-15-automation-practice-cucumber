@@ -1,0 +1,76 @@
+2022-05-17 11:05:217 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 12:05:470 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 12:05:605 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 12:05:242 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:254 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:582 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:495 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:756 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:995 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:217 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:663 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:567 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:584 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:867 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:838 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:987 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:951 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:447 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:255 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 14:05:772 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 15:05:58 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 16:05:958 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:379 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:644 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 18:05:934 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 19:05:777 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 20:05:718 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 20:05:815 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 20:05:110 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 20:05:802 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:386 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:177 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:75 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:340 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:163 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:754 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:114 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:806 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:15 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:982 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:888 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 21:05:340 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:651 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:248 INFO  HomePage :30 - clicking on Women link[[ChromeDriver: chrome on WINDOWS (cf6ed35b41862f38722e88965aaf6f1a)] -> xpath: //ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']//li//a[contains(text(),'Women')]]<br>
+2022-05-17 23:05:223 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:999 INFO  HomePage :30 - clicking on Women link[[ChromeDriver: chrome on WINDOWS (b8e2009021ec1422c85335896f663b00)] -> xpath: //ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']//li//a[contains(text(),'Women')]]<br>
+2022-05-17 23:05:335 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:153 INFO  HomePage :30 - clicking on Women link[[ChromeDriver: chrome on WINDOWS (d4d550f87d7543adcc8d0f799243feb3)] -> xpath: //ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']//li//a[contains(text(),'Women')]]<br>
+2022-05-17 23:05:263 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:186 INFO  HomePage :30 - clicking on Women link[[ChromeDriver: chrome on WINDOWS (5817423655958d6c022c259d5eb9ad0c)] -> xpath: //ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']//li//a[contains(text(),'Women')]]<br>
+2022-05-17 23:05:339 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:340 INFO  HomePage :35 - clicking on SignIn link[[ChromeDriver: chrome on WINDOWS (657a038b6d4889c88809634d32b668c5)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 23:05:759 INFO  SignInPage :62 -  enter a new email ' Y3RzO@gmail.com ' and click on create an account button [[ChromeDriver: chrome on WINDOWS (657a038b6d4889c88809634d32b668c5)] -> xpath: //button[@id='SubmitCreate']//i[@class='icon-user left']]<br>
+2022-05-17 23:05:712 INFO  CreateAccountPage :71 - fill up personal information form by entering firstname ' Happy ' lastname 'Life ' password ' Always123 '<br>
+2022-05-17 23:05:992 INFO  CreateAccountPage :84 - fill address details by entering address ' 1 Nice Building' city ' Maryland' state ' Ohio ' zipCode ' 12345 ' United States ' mobile no. 0123456789 ' addAlias ' main home ' 
+2022-05-17 23:05:31 INFO  CreateAccountPage :88 - verify My account text [[ChromeDriver: chrome on WINDOWS (657a038b6d4889c88809634d32b668c5)] -> xpath: //span[@class='navigation_page']]<br>
+2022-05-17 23:05:894 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:940 INFO  HomePage :35 - clicking on SignIn link[[ChromeDriver: chrome on WINDOWS (58bc5e053b76799efea746cab96d086f)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 23:05:441 INFO  SignInPage :65 - verify Authentication text [[ChromeDriver: chrome on WINDOWS (58bc5e053b76799efea746cab96d086f)] -> xpath: //h1[contains(text(),'Authentication')]]<br>
+2022-05-17 23:05:311 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:591 INFO  HomePage :35 - clicking on SignIn link[[ChromeDriver: chrome on WINDOWS (a34e79c62c0b0f6cfb6df52244dd8b42)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 23:05:383 INFO  SignInPage :56 - Sign in by entering username  '  ' password ' 123456 ' and click on sign in button[[ChromeDriver: chrome on WINDOWS (a34e79c62c0b0f6cfb6df52244dd8b42)] -> xpath: //div[@class='form_content clearfix']//p[@class='submit']//i]<br>
+2022-05-17 23:05:404 INFO  SignInPage :70 - get error messages to verify authentication[[ChromeDriver: chrome on WINDOWS (a34e79c62c0b0f6cfb6df52244dd8b42)] -> xpath: //ol//li]<br>
+2022-05-17 23:05:325 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:227 INFO  HomePage :35 - clicking on SignIn link[[ChromeDriver: chrome on WINDOWS (fe39a6fb735090eb0b481e4453ae382e)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 23:05:124 INFO  SignInPage :56 - Sign in by entering username  ' abcd@gmail.com ' password '  ' and click on sign in button[[ChromeDriver: chrome on WINDOWS (fe39a6fb735090eb0b481e4453ae382e)] -> xpath: //div[@class='form_content clearfix']//p[@class='submit']//i]<br>
+2022-05-17 23:05:143 INFO  SignInPage :70 - get error messages to verify authentication[[ChromeDriver: chrome on WINDOWS (fe39a6fb735090eb0b481e4453ae382e)] -> xpath: //ol//li]<br>
+2022-05-17 23:05:40 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:226 INFO  HomePage :35 - clicking on SignIn link[[ChromeDriver: chrome on WINDOWS (b75cc77d9f72983640700dc2cd523970)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 23:05:972 INFO  SignInPage :56 - Sign in by entering username  ' adfdfgfg ' password ' 123456 ' and click on sign in button[[ChromeDriver: chrome on WINDOWS (b75cc77d9f72983640700dc2cd523970)] -> xpath: //div[@class='form_content clearfix']//p[@class='submit']//i]<br>
+2022-05-17 23:05:991 INFO  SignInPage :70 - get error messages to verify authentication[[ChromeDriver: chrome on WINDOWS (b75cc77d9f72983640700dc2cd523970)] -> xpath: //ol//li]<br>
+2022-05-17 23:05:884 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 23:05:489 INFO  HomePage :35 - clicking on SignIn link[[ChromeDriver: chrome on WINDOWS (dad4bb0b47a36a6066782cd52f8c0449)] -> xpath: //a[contains(text(),'Sign in')]]<br>
+2022-05-17 23:05:280 INFO  SignInPage :56 - Sign in by entering username  ' abcd@gmail.com ' password ' 123456 ' and click on sign in button[[ChromeDriver: chrome on WINDOWS (dad4bb0b47a36a6066782cd52f8c0449)] -> xpath: //div[@class='form_content clearfix']//p[@class='submit']//i]<br>
+2022-05-17 23:05:315 INFO  SignInPage :70 - get error messages to verify authentication[[ChromeDriver: chrome on WINDOWS (dad4bb0b47a36a6066782cd52f8c0449)] -> xpath: //ol//li]<br>
+2022-05-17 23:05:280 INFO  ManageDriver :31 - Launching Chrome Browser
