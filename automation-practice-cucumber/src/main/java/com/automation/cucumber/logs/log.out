@@ -74,3 +74,4 @@
 2022-05-17 23:05:280 INFO  SignInPage :56 - Sign in by entering username  ' abcd@gmail.com ' password ' 123456 ' and click on sign in button[[ChromeDriver: chrome on WINDOWS (dad4bb0b47a36a6066782cd52f8c0449)] -> xpath: //div[@class='form_content clearfix']//p[@class='submit']//i]<br>
 2022-05-17 23:05:315 INFO  SignInPage :70 - get error messages to verify authentication[[ChromeDriver: chrome on WINDOWS (dad4bb0b47a36a6066782cd52f8c0449)] -> xpath: //ol//li]<br>
 2022-05-17 23:05:280 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 09:05:810 INFO  ManageDriver :31 - Launching Chrome Browser
